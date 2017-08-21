@@ -1,7 +1,6 @@
 package br.pucminas.supermercado.model;
 // Generated 17/08/2017 22:19:53 by Hibernate Tools 4.3.1
 
-
 import java.util.HashSet;
 import java.util.Set;
 
@@ -43,7 +42,6 @@ public class Marca  implements java.io.Serializable {
         this.nome = nome;
     }
    
-
 
 
 }

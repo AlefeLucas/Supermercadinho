@@ -79,8 +79,6 @@ public class Supermercado  implements java.io.Serializable {
         this.logo = logo;
     }
 
-
-
 }
 
 

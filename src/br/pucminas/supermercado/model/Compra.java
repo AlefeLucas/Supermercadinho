@@ -56,7 +56,4 @@ public class Compra  implements java.io.Serializable {
     public void setHorario(Date horario) {
         this.horario = horario;
     }
-
 }
-
-
