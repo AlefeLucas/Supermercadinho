@@ -16,8 +16,7 @@ public class Supermercado  implements java.io.Serializable {
      private String cnpj;
      private String nome;
      private String descricao;
-     private byte[] logo;
-     
+     private byte[] logo;     
 
     public Supermercado() {
     }
